@@ -1,1 +1,4 @@
-https://github.com/aswanks/myntrashopping.git
+Visit site
+============================================
+https://aswanks.github.io/myntrashopping/)
+============================================
